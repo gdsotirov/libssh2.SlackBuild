@@ -1,0 +1,11 @@
+libssh2: libssh2 (a client-side SSH2 protocol C library)
+libssh2:
+libssh2: libssh2 is a library implementing the SSH2 protocol, available under
+libssh2: the revised BSD license.
+libssh2:
+libssh2:
+libssh2:
+libssh2:
+libssh2:
+libssh2:
+libssh2: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
